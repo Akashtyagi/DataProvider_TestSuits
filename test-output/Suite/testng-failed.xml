@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" name="Failed suite [Suite]" parallel="methods">
+  <parameter name="name" value="Akash"/>
+  <test name="XMLTest(failed)" parallel="methods">
+    <parameter name="name" value="Akash"/>
+    <classes>
+      <class name="com.qa.akash.TestNG_XML.AppTest">
+        <methods>
+          <include name="Test01"/>
+        </methods>
+      </class> <!-- com.qa.akash.TestNG_XML.AppTest -->
+    </classes>
+  </test> <!-- XMLTest(failed) -->
+</suite> <!-- Failed suite [Suite] -->

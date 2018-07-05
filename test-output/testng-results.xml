@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="38" started-at="2018-07-05T13:18:35Z" finished-at="2018-07-05T13:18:35Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="38" started-at="2018-07-05T13:18:35Z" finished-at="2018-07-05T13:18:35Z">
+      <class name="com.qa.akash.TestNG_XML.DataProvider">
+        <test-method status="PASS" signature="Test01(java.lang.String, java.lang.String)[pri:0, instance:com.qa.akash.TestNG_XML.DataProvider@174d20a]" name="Test01" duration-ms="12" started-at="2018-07-05T18:48:35Z" data-provider="NameProvider" finished-at="2018-07-05T18:48:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Akash]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Tyagi]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test01 -->
+        <test-method status="PASS" signature="Test01(java.lang.String, java.lang.String)[pri:0, instance:com.qa.akash.TestNG_XML.DataProvider@174d20a]" name="Test01" duration-ms="2" started-at="2018-07-05T18:48:35Z" data-provider="NameProvider" finished-at="2018-07-05T18:48:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Jaykant]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sheekre]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test01 -->
+        <test-method status="PASS" signature="Test01(java.lang.String, java.lang.String)[pri:0, instance:com.qa.akash.TestNG_XML.DataProvider@174d20a]" name="Test01" duration-ms="1" started-at="2018-07-05T18:48:35Z" data-provider="NameProvider" finished-at="2018-07-05T18:48:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Singham]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test01 -->
+      </class> <!-- com.qa.akash.TestNG_XML.DataProvider -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
